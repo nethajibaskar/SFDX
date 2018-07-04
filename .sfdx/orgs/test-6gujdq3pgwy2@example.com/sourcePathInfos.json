@@ -1,0 +1,296 @@
+[
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530673801361,
+            "changeTime": 1530673801361,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530673801361,
+            "changeTime": 1530673801361,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530678907990,
+            "changeTime": 1530678907990,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530673801361,
+            "changeTime": 1530673801361,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530673980103,
+            "changeTime": 1530673980103,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1530678907901,
+            "changeTime": 1530678907901,
+            "contentHash": "4d2f163b141a91a4b7fcdba55159299e4af10836",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9768,
+            "modifiedTime": 1530719995746,
+            "changeTime": 1530719995746,
+            "contentHash": "95068a90e9dfa37eece75c3b7266760fc536d4c0"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9720,
+            "modifiedTime": 1530719995763,
+            "changeTime": 1530719995763,
+            "contentHash": "9e9ad56506e4386d6d330c33eace634bdeb4f70e"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9768,
+            "modifiedTime": 1530719995790,
+            "changeTime": 1530719995790,
+            "contentHash": "04dba9fba7dda0b8267cf0e9cec798cc024a403a"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9720,
+            "modifiedTime": 1530719995805,
+            "changeTime": 1530719995805,
+            "contentHash": "273d2884abc36f278b6ef3695f92a243dd8a3b6f"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4477,
+            "modifiedTime": 1530719995856,
+            "changeTime": 1530719995856,
+            "contentHash": "fd2d3f0a0ad227030a326e91b097ae43e6255886"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4473,
+            "modifiedTime": 1530719995856,
+            "changeTime": 1530719995856,
+            "contentHash": "89a529fb7f1e6b5a81ef6a4f1d38faf1381cc7fa"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17878,
+            "modifiedTime": 1530719995846,
+            "changeTime": 1530719995846,
+            "contentHash": "5294015140eb76552a5b5f884e143f23075e92bb"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4813,
+            "modifiedTime": 1530719995856,
+            "changeTime": 1530719995856,
+            "contentHash": "94201bcfbe08aa4560accc1b353666d7f9a73772"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 698,
+            "modifiedTime": 1530678907991,
+            "changeTime": 1530678907991,
+            "contentHash": "baa40aad81b42e04d222c97f3d9d25d905063889",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1530719995725,
+            "changeTime": 1530719995725,
+            "contentHash": "b246cbe1c730eb81df3914ff412296d9a109c789"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530678907897,
+            "changeTime": 1530678907897,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530678907897,
+            "changeTime": 1530678907897,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530678907942,
+            "changeTime": 1530678907942,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530678907980,
+            "changeTime": 1530678907980,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1530678907991,
+            "changeTime": 1530678907991,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\TestSFDX__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Nethaji\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\TestSFDX__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 396,
+            "modifiedTime": 1530719995725,
+            "changeTime": 1530719995725,
+            "contentHash": "add4cc6b01c4dd19628a8c397fa8cc5b91b4d096"
+        }
+    ]
+]
